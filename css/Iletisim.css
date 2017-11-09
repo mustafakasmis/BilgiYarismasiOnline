@@ -1,0 +1,10 @@
+﻿h2 {
+    color:rgb(53, 255, 0);
+    text-align: center;
+}
+
+#Panel1{
+    position:relative;
+    top:10px;
+    left:485px;
+}

@@ -1,0 +1,52 @@
+﻿#LnkAnasayfa {
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+
+#LnkProfil {
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+
+#LnkKategori {
+    position: relative;
+    top: 100px;
+    left: 250px;
+}
+
+
+#LnkLiderlerTbl {
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+
+
+#LnkKurallar {
+    position: relative;
+    top: 100px;
+    left: 350px;
+}
+
+#LnkCikis {
+    position: relative;
+    top: 100px;
+    left: 400px;
+}
+
+#pnlBilim {
+    position: relative;
+    top: 225px;
+}
+
+#pnlSpor {
+    position: relative;
+    top: 225px;
+}
+
+#pnlTarih {
+    position: relative;
+    top: 225px;
+}

@@ -1,0 +1,59 @@
+﻿body {
+    background-image: url("images/0.jpg");
+}
+
+h2 {
+    color: rgb(53, 255, 0);
+    text-align: center;
+    font-size: 30px;
+}
+
+h3 {
+    color: greenyellow;
+    text-align: center;
+    width: 424px;
+    margin-left: 0px;
+    margin-top: 16px;
+}
+
+#LnkBtnAnasayfa {
+    position: relative;
+    left: 450px;
+    font-size: 22px;
+}
+
+#LnkBtnHakkimizda {
+    position: relative;
+    left: 492px;
+    font-size: 22px;
+}
+
+#LnkBtnIletisim {
+    position: relative;
+    left: 525px;
+    font-size: 22px;
+}
+
+#LnkBtnUyeOl {
+    position: relative;
+    left: 650px;
+    font-size: 22px;
+}
+
+#dv1 {
+    width: 402px;
+    height: 268px;
+    position: relative;
+    left: 382px;
+    top: -30px;
+    margin-left: 82px;
+    margin-top: 149px;
+    width: 425px;
+}
+
+#trh {
+    margin-top: 56px;
+    color: red;
+    text-align: center;
+    font-size: 18px;
+}
